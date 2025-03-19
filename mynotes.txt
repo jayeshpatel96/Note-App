@@ -1,0 +1,6 @@
+clone the respository from Github to Local by git clone <respository link>.
+
+install Extentions : 
+    1.Live Server (Automatically refresh the browser)
+    2.Prettier (Use for code formatting)
+    3.Auto Close Tag (Automatically close the tag)
